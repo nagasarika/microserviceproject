@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="APIGateDemo/src/main/java"/>
+	<classpathentry kind="src" path="APIGateDemo/src/test/java"/>
+	<classpathentry kind="src" path="CustomerService/src/main/java"/>
+	<classpathentry kind="src" path="CustomerService/src/test/java"/>
+	<classpathentry kind="src" path="MicroServiceDemo/src/main/java"/>
+	<classpathentry kind="src" path="MicroServiceDemo/src/test/java"/>
+	<classpathentry kind="src" path="OrdersMicroService/src/main/java"/>
+	<classpathentry kind="src" path="OrdersMicroService/src/test/java"/>
+	<classpathentry kind="src" path="ProductMicroService/src/main/java"/>
+	<classpathentry kind="src" path="ProductMicroService/src/test/java"/>
+	<classpathentry kind="lib" path="APIGateDemo/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="CustomerService/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="MicroServiceDemo/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="OrdersMicroService/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="ProductMicroService/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
